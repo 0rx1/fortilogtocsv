@@ -6,4 +6,4 @@
 
  - **Output example :**
 
-![Output : ](csv.png)
+![Output : ](output.png)
