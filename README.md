@@ -1,3 +1,9 @@
-# Forti Logs To CSV
-Converting Forti Log files to a sexy CSV !
+## Converting Forti Log  to a sexy CSV !
+
+ - **How to run :**
+
 ![How to Run it : ](out.png)
+
+ - **Output example :**
+
+![Output : ](csv.png)
